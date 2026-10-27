@@ -1,0 +1,8 @@
+agent-framework-core>=1.22,<2
+agent-framework-foundry>=1.15,<2
+# Pre-release only; hosts an Agent Framework agent behind the Foundry Responses protocol.
+agent-framework-foundry-hosting==1.0.0b261015
+azure-cosmos>=4.9,<5
+azure-identity>=1.26
+azure-ai-projects>=2.3.0,<3
+python-dotenv>=1.0
